@@ -1,0 +1,9 @@
+com.redstone.ota.ui
+com.spreadtrum.proxy.nfwlocation
+com.spreadtrum.ims
+com.spreadtrum.csvt
+com.spreadtrum.sgps
+com.spreadtrum.proxy.nfwlocation
+com.spreadtrum.ims
+com.spreadtrum.csvt
+com.spreadtrum.sgps
